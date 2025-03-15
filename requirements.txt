@@ -1,0 +1,8 @@
+pdfplumber
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+google-generativeai
+langchain-core
